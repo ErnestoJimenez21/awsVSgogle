@@ -1,0 +1,14 @@
+http://www.izt.uam.mx/newpage/contactos/anterior/n80ne/nube.pdf
+http://www.cuchillac.net/archivos/pre_virtual_cloud_computing/2_cloud_publicas/lects/articulo_tecnologia.pdf
+
+https://www.google.com.mx/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjts7iL-dbOAhVC7WMKHZQ0BTEQFgg-MAM&url=https%3A%2F%2Fwww.incibe.es%2Fextfrontinteco%2Fimg%2FFile%2Fintecocert%2FEstudiosInformes%2Fcert_inf_riesgos_y_amenazas_en_cloud_computing.pdf&usg=AFQjCNHEic5uoxFjS2aG19PzEfxk92VyXw&sig2=_vYM63LRgl38lORGMinYfg&bvm=bv.129759880,d.cGc
+http://www.fce.unal.edu.co/uifce/proyectos-de-estudio/pdf/Cloud_computing
+http://www.fce.unal.edu.co/uifce/proyectos-de-estudio/pdf/Cloud_computing
+
+La Nube como concepto no es más que una abstracción del sitio real en el cual se guardan e
+interconectan la información y los datos de los usuarios “Internet”. Con este término se designa a los
+servidores de las empresas de internet donde estas almacenan y gestionan la información.
+Coloquialmente se dice “subir a internet un archivo” esto se refiere a lo mismo que subir datos a la
+Nube es decir alojarlos en un servidor.
+En la Nube se almacena todo tipo de datos e información, fotos, imagines, documentos, videos,
+audios, archivos de toda característica, software, entre muchas más.
